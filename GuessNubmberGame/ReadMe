@@ -1,6 +1,0 @@
-This is the project to guess the number in range 1 to 199.  The steps are:
-1) The user needs to enter values in the range 1 to 199
-2) After the first entry, the program will give clue if the number to be guess is less or greater than entered number
-3) Based on the clue the user can enter max 5 guess
-4) With each wrong guess user will loose 20 points
-5) If user failed to guess the number, the project will show the number 
