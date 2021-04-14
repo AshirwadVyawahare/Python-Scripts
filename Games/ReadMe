@@ -1,0 +1,5 @@
+This file contains 3 diff functions in a class.  These py script is an example of how to use class and its object
+The 3 functions in the class as below:
+1) guess_number: This is number guessing game.  Demonstrate the exception handling
+2) find_temp_city: This function helps to find the temp of the user asked city
+3) block_unblock_url: This will block or unblock the site as per user input.  This is file handling example
